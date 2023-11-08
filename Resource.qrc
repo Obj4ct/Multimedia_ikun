@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>sounds/niganma.mp3</file>
+        <file>sounds/apologize.wav</file>
+        <file>sounds/Chiken.mp3</file>
+        <file>sounds/TooBeautiful.mp3</file>
+        <file>sounds/WhetherBeautiful.mp3</file>
+        <file>sounds/realMan.wav</file>
+        <file>sounds/isPowerful.mp3</file>
+        <file>sounds/isYou.mp3</file>
+        <file>sounds/lizhi.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/background.jpg</file>
+        <file>images/dontHarmMe.jpg</file>
+        <file>images/ikun.jpg</file>
+        <file>images/ikun2.jpg</file>
+        <file>images/noway.jpg</file>
+    </qresource>
+    <qresource prefix="/video">
+        <file>video/ikunVideo.mp4</file>
+    </qresource>
+</RCC>
